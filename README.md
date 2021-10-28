@@ -1,2 +1,2 @@
 # CosmicRayDataTable
-Data table for CR diffusion parameters and MHD parameters. Email: msampsonroko@gmail.com for more information on use.
+Data table for CR diffusion parameters and MHD parameters. Email: u6847483@anu.edu.au for more information on use.
